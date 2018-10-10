@@ -1,5 +1,6 @@
 {
   "name": "coins",
+  "homepage": "http://dleszcz.github.io/coins",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
